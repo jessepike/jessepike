@@ -1,10 +1,10 @@
 # Jesse Pike
 
-**Builder · Architect · Entrepreneur**
+**Cybersecurity & AI Governance | Builder · Architect · Entrepreneur**
 
-30+ years in enterprise IT. I build AI-native tools, agentic systems, and the infrastructure that makes them work.
+30+ years in enterprise security and IT. I build AI-native tools for security, governance, and risk, and the infrastructure that makes holds all together.
 
-Currently: applying systems thinking from enterprise architecture to the agentic AI era — building tools I'd actually want to use, writing about what works, and looking for interesting problems worth solving.
+Currently: Applying systems thinking and 30 years experience to securing the agentic AI era. Building governance and security tooling I'd actually want to use, writing about what works, and looking for interesting problems worth solving.
 
 ---
 
@@ -12,36 +12,36 @@ Currently: applying systems thinking from enterprise architecture to the agentic
 
 | Project | What it is |
 |---------|------------|
-| [ADF](https://jessepike.dev/projects/adf) | Agentic Development Framework — environment layer for orchestrating autonomous AI agents |
+| [AGF](https://github.com/jessepike/agf) | Agentic Governance Framework - framework that synthesizes and ties together the top industry approaches | 
+| [ADF](https://jessepike.dev/projects/adf) | Agentic Development Framework — 5 stage development pipeline for building solutions with AI |
 | [Memory MCP](https://jessepike.dev/projects/memory) | Persistent memory server for cross-session agent context and recall |
 | [Diagram Forge](https://jessepike.dev/projects/diagram-forge) | Text-to-diagram generation for architectural visualization |
-| [Work Management](https://jessepike.dev/projects/work-mgmt) | Agent-native project management and task orchestration |
+
 
 ---
 
 ### Background
 
-- Enterprise architect turned AI builder
-- GRC, risk automation, Zero Trust, identity — the unglamorous stuff that actually matters
-- Started a couple businesses. Building more.
-- Writing about agentic systems, enterprise architecture, and what I'm learning at [jessepike.dev](https://jessepike.dev)
+  - Enterprise security architect and CISO Advisor turned AI builder. CISSP, CISM, CISA, CRISC, SABSA.
+  - GRC, risk automation, Zero Trust, identity, AI governance
+  - Started a couple businesses. Building more.
+  - Writing about agentic security, enterprise architecture, and what I'm learning at [jessepike.dev](https://jessepike.dev)
 
 ---
 
 ### Stack I work in
-
 `Python` `TypeScript` `Astro` `Claude MCP` `Supabase` `Next.js` `Vercel` `claude code` `codex` `gemini`
 
-Agentic workflows · Enterprise architecture · Systems design · GRC automation
+Agentic workflows · Enterprise security architecture · Systems design · GRC automation
 
 ---
 
 ### Open to
 
-- Co-founder conversations
-- Consulting on AI/architecture transformation
-- Advisory roles
-- Problems worth building for
+  - CISO advisory and fractional security leadership
+  - Co-founder conversations
+  - Consulting on AI governance and security architecture
+  - Problems worth building for
 
 ---
 
