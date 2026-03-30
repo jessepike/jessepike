@@ -2,7 +2,7 @@
 
 **Cybersecurity & AI Governance | Builder · Architect · Entrepreneur**
 
-30+ years in enterprise security and IT. I build AI-native tools for security, governance, and risk, and the infrastructure that makes holds all together.
+30+ years in enterprise security and IT. I build AI-native tools for security, governance, and risk, and the infrastructure that holds it all together.
 
 Currently: Applying systems thinking and 30 years experience to securing the agentic AI era. Building governance and security tooling I'd actually want to use, writing about what works, and looking for interesting problems worth solving.
 
